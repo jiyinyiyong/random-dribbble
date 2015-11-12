@@ -1,7 +1,7 @@
 {
-  "name": "webpack-workflow",
+  "name": "random-dribbble",
   "version": "0.0.1",
-  "description": "Web app scaffold based on Webpack",
+  "description": "Random Dribbble images",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "author": "jiyinyiyong",
   "license": "MIT",
   "keywords": [
-    "workflow"
+    "dribbble"
   ],
   "devDependencies": {
     "autoprefixer-loader": "^3.0.0",
@@ -38,10 +38,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvc-works/webpack-workflow.git"
+    "url": "https://github.com/jiyinyiyong/random-dribbble.git"
   },
   "bugs": {
-    "url": "https://github.com/mvc-works/webpack-workflow/issues"
+    "url": "https://github.com/jiyinyiyong/random-dribbble/issues"
   },
-  "homepage": "https://github.com/mvc-works/webpack-workflow"
+  "homepage": "https://github.com/jiyinyiyong/random-dribbble"
 }
